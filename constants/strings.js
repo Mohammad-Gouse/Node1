@@ -1,0 +1,28 @@
+module.exports = {
+  USERS: "users",
+  ROLES: "roles",
+  JWT_TOKENS: `jwt_tokens`,
+  USER_ROLE_MAPPING: "user_role_mapping",
+  USER_EMAIL: "email",
+  USER_PASSWORD: "password",
+  SHAPE_TBL: "shapes",
+  SIZE_TBL: "sizes",
+  COLOUR_TBL: "colours",
+  CLARITY_TBL: "claritys",
+  COLUMN_NAME: "name",
+  CURRENCY_MASTER_TBL: "currency_master",
+  CURRENCY_RATE_TBL: "currency_rate",
+  PRODUCT_MASTER_TBL: "product_master",
+  CURRENCY1_COL: "currency_1",
+  CURRENCY2_COL: "currency_2",
+  TAG_COL: "tag",
+  UNDERLYING_ASSET_TBL: "underlying_asset",
+  UNDERLYING_ASSET: "underlying_asset",
+  CONFIGURATION_TBL: "configurations",
+  CONFIGURATIONS_TBL: "configurations",
+
+  USER_PRICE: "user_price",
+  DCX_PRICE: "dcx_price",
+  USER_PRICE_TBL:'user_price',
+};
+

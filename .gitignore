@@ -1,0 +1,12 @@
+node_modules
+npm_debug.log
+*.log
+.vscode/
+.DS_Store
+.history
+uploads/
+.scannerwork
+sonar-project.properties
+coverage/
+.idea/
+.env

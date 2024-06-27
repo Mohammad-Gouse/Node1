@@ -1,0 +1,48 @@
+{
+  "name": "dcx",
+  "version": "1.0.0",
+  "description": "Diamond Trading",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Texple",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "koa": "^2.14.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.2",
+    "path": "^0.12.7",
+    "winston": "^3.10.0"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@hapi/boom": "^10.0.1",
+    "@koa/bodyparser": "^5.0.0",
+    "@koa/cors": "^5.0.0",
+    "@koa/router": "^12.0.0",
+    "abort-controller": "^3.0.0",
+    "axios": "^1.6.0",
+    "bcrypt": "^5.1.1",
+    "date-fns": "^3.6.0",
+    "exceljs": "^4.4.0",
+    "express-fileupload": "^1.5.0",
+    "joi": "^17.12.2",
+    "jsonwebtoken": "^9.0.2",
+    "koa-body": "^6.0.1",
+    "koa-bodyparser": "^4.4.1",
+    "koa-helmet": "^7.0.2",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^12.0.1",
+    "koa2-cors": "^2.0.6",
+    "moment": "^2.30.1",
+    "multer": "^1.4.5-lts.1",
+    "npm": "^10.5.0",
+    "pg": "^8.11.3",
+    "uuid": "^9.0.1",
+    "xlsx": "^0.18.5"
+  }
+}
